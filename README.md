@@ -26,15 +26,15 @@ If you have any questions, please don't hesitate to reach out to nsioulas@g.ucla
 If you use this work, please cite:
 
 ```
-@software{nikos_sioulas_2023_7572468,
+@software{nikos_sioulas_2023_7573370,
   author       = {Nikos Sioulas},
-  title        = {MHDTurbPy},
+  title        = {nsioulas/SEA: 0.1.0},
   month        = jan,
   year         = 2023,
   publisher    = {Zenodo},
   version      = {0.1.0},
-  doi          = {10.5281/zenodo.7572468},
-  url          = {https://doi.org/10.5281/zenodo.7572468}
+  doi          = {10.5281/zenodo.7573370},
+  url          = {https://doi.org/10.5281/zenodo.7573370}
 }
 ```
 
