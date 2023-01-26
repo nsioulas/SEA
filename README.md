@@ -9,7 +9,7 @@ The function takes as an input the dataframe containing the signal, the conditio
 The function  first filters the dataframe to only include instances of the event or condition, then it creates a new dataframe with the signal values averaged over the specified time window around each instance of the event or condition. The function outputs the resulting superposed epoch signal as well as the time values corresponding to the center of each time window.
 
 
- - Download the package
+ # Download the package
 ``` bash
 git clone https://github.com/nsioulas/SEA/
 ```
