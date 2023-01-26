@@ -124,6 +124,6 @@ def SEA(df, condit_variables, threshold_values, conditions, time_around, which_o
         # Also estimate std
         y_std = np.nanstd(keep_vals,axis=0)
         # Estimate standard error of the mean
-        y_std_err_mean = y_std/np.shape(keep_vals)[0]
+        y_std_err_mean = y_std/np.sqrt(np.shape(keep_vals)[0])
         
     return xvals, yvals, y_std, y_std_err_mean 
