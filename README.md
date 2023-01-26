@@ -16,7 +16,7 @@ git clone https://github.com/nsioulas/SEA/
 
 # Usage
 
-Some examples of how to download, visualize data can be found in ```example.ipynb```
+Examples can be found in ```example.ipynb```
 
 # Contact
 If you have any questions, please don't hesitate to reach out to nsioulas@g.ucla.edu.
