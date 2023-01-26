@@ -11,12 +11,12 @@ The function  first filters the dataframe to only include instances of the event
 
  - Download the package
 ``` bash
-git clone https://github.com/nsioulas/MHDTurbPy/
+git clone https://github.com/nsioulas/SEA/
 ```
 
 # Usage
 
-Some examples of how to download, visualize data can be found in ```Examples.ipynb```
+Some examples of how to download, visualize data can be found in ```example.ipynb```
 
 # Contact
 If you have any questions, please don't hesitate to reach out to nsioulas@g.ucla.edu.
